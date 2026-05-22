@@ -48,7 +48,7 @@
     </main>
 
     <footer>
-        <p>Proyecto creado por [Nombre del Alumno] &copy; 2026</p>
+        <p>Proyecto creado por [AAM] &copy; 2026</p>
     </footer>
 
 </body>
